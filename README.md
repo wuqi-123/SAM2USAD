@@ -82,7 +82,7 @@ Visual object tracking methods built upon SAM2 achieve strong zero-shot performa
 ## Attribute-wise Robustness
 
 - **LaSOT (Base):** the largest gains come from **Illumination Variation +8.4**, **Camera Motion +5.2**, **Full Occlusion +4.8**, **Fast Motion +4.3**, and **Viewpoint Change +4.3**.
-- **LaSOText (Base):** the strongest gains are **Camera Motion +12.7**, **Out-of-View +8.1**, **Fast Motion +7.0**, **Aspect Ratio Change +6.6**, **Scale Variation +6.3**, and **Full Occlusion +6.0**.
+- **LaSOText (Base):** the strongest gains are **OV +5.0**, **ARC +4.9**, **MB +4.1**, **SV +4.1**, **FM +3.2**, and **LR +2.4**.
 - These gains are consistent with the paper's motivation: **better nonlinear motion modeling + distractor suppression** improves robustness exactly where SAM2-based trackers are most vulnerable.
 
 ---
