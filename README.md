@@ -54,8 +54,8 @@ Visual object tracking methods built upon SAM2 achieve strong zero-shot performa
 - **LaSOT (Base):** AUC **73.6** vs. **70.7** (**+2.9**)
 - **LaSOText (Base):** AUC **61.3** vs. **57.5** (**+3.8**)
 - **GOT-10k (Base):** AO **83.3** vs. **79.6** (**+3.7**)
-- **VOT-LT2020 (Base):** F-score **67.3** vs. **62.5** (**+4.8**)
-- **VOT-LT2022 (Base):** F-score **49.7** vs. **47.5** (**+2.2**)
+- **VOT-LT2020 (Base):** F-score **67.1** vs. **62.5** (**+4.6**)
+- **VOT-LT2022 (Base):** F-score **49.4** vs. **47.5** (**+1.9**)
 - **TrackingNet (Base):** **85.9 / 91.1 / 88.5** on **S / NP / P**, compared with **79.3 / 84.9 / 81.2**
 
 ### LaSOT / LaSOText / GOT-10k
@@ -75,7 +75,7 @@ Visual object tracking methods built upon SAM2 achieve strong zero-shot performa
 | SAMURAI | 58.6 / 67.0 / 62.5 | 44.5 / 50.9 / 47.5 | 79.3 / 84.9 / 81.2 |
 | DAM4SAM | 60.7 / 69.8 / 64.9 | 43.6 / 49.9 / 46.5 | 84.7 / 90.5 / 86.7 |
 | HiM2SAM | 61.2 / 70.3 / 65.4 | 45.0 / 51.3 / 48.0 | 85.4 / 90.8 / 87.3 |
-| **SAM2USAD** | **62.5 / 72.4 / 67.3** | **46.2 / 53.1 / 49.7** | **85.9 / 91.1 / 88.5** |
+| **SAM2USAD** | **62.5 / 72.4 / 67.1** | **46.2 / 53.1 / 49.4** | **85.9 / 91.1 / 88.5** |
 
 ---
 
